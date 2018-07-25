@@ -1,0 +1,5 @@
+<!--pages/regist/regist.wxml-->
+<i-panel>
+    <i-input value="{{ value5 }}" placeholder="请输入身份证号码" />
+    <i-input value="{{ value5 }}" placeholder="请输入电话号码" />
+</i-panel>
